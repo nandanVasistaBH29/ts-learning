@@ -14,7 +14,7 @@ strictly_username = getUserName();
 username = isLoggedIn(); // this obvio bad right u r storing boolean value in the
 // variable assigned to store username
 
-strictly_username = isLoggedIn(); // error
+// strictly_username = isLoggedIn(); // error
 // this is a TS error JS don't care about type errors
 
 console.log(strictly_username); //u will still get it as false
