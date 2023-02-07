@@ -24,6 +24,7 @@ class Uber implements map {
   }
 }
 
+//implementing multiple interfaces is also possible
 class Zomato implements map {
   src: number[];
   dest: number[];
