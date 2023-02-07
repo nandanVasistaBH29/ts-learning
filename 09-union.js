@@ -5,7 +5,7 @@ var getByNameOrId = function (arg) {
         arg.toLowerCase();
         return {
             u_id: 1,
-            name: "nandan"
+            name: "nandan",
         };
     }
     else {
@@ -14,8 +14,8 @@ var getByNameOrId = function (arg) {
             admin_id: 1000,
             user: {
                 u_id: 1,
-                name: "nandan"
-            }
+                name: "nandan",
+            },
         };
     }
 };

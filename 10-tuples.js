@@ -1,7 +1,7 @@
 "use strict";
 // https://stackoverflow.com/questions/64069552/typescript-array-push-method-cant-catch-a-tuple-type-of-the-array
 // are typles in TS not immutable
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 // tuples in TS are like arrays with fixed length and fixed datatype for that position
 var rgb = [255, 255, 255];
 rgb[0] = 0;

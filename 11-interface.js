@@ -9,7 +9,7 @@ var nv = {
     getCoupon: function (str) {
         return 10;
     },
-    github_id: "2ew234 "
+    github_id: "2ew234 ",
 };
 var rak = {
     _id: "123esdfc!@#4",
@@ -21,7 +21,7 @@ var rak = {
     getCoupon: function (str) {
         return 10;
     },
-    role: "coordinator"
+    role: "coordinator",
 };
 console.log(nv);
 console.log(rak);
