@@ -16,3 +16,4 @@ function login({ email, password }): {
   };
 }
 console.log(login({ email: "nandan@gmail.com", password: "*******" }));
+export {};
